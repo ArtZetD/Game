@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\creep\source\repos\mygame\mygame\source.cpp(110): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\creep\source\repos\mygame\mygame\source.cpp(148): warning C4715: check: значение возвращается не при всех путях выполнения
+  MyGame.vcxproj -> C:\Users\creep\source\repos\MyGame\Debug\MyGame.exe
